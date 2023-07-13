@@ -109,7 +109,7 @@
         },
         "avzone": {
             "type": "string",
-            "defaultValue": "1",
+            "defaultValue": "",
             "allowedValues": [
                 "1",
                 "2",
