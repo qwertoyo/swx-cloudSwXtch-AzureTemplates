@@ -403,7 +403,7 @@
                                     "type": "Microsoft.Common.DropDown",
                                     "label": "Availability zone",
                                     "placeholder": "",
-                                    "defaultValue": "1",
+                                    "defaultValue": "",
                                     "toolTip": "Choose the VM deployment zone",
                                     "constraints": {
                                         "allowedValues": [
