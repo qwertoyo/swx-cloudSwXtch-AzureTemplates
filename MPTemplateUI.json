@@ -420,7 +420,7 @@
                                                 "value": "3"
                                             }
                                         ],
-                                        "required": true
+                                        "required": false
                                     },
                                     "visible": true
                                 }
